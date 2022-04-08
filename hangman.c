@@ -3,9 +3,9 @@
 #include <stdbool.h>
 #include "printFileList.h"
 #include "sleep.h"
-//#include "selectRandomLine.h"
-//#include "len.h"
-//#include "compareIndexCharacterString.h"
+//#include "Libraries/selectRandomLine.h"
+//#include "Libraries/len.h"
+//#include "Libraries/compareIndexCharacterString.h"
 
 enum Mode{
         easy = 1,
